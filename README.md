@@ -22,8 +22,7 @@ sudo cp /usr/share/Decrypter/Decrypter.desktop /usr/share/applications/
 Then you can run it from your menu ;)
 
 Usage:
-https://1.bp.blogspot.com/-dQpCarutkNE/Xqhq-BbVlKI/AAAAAAAAAOw/vL89qAFtuR4OAyv4fukEviYeV1Df0deuQCLcBGAsYHQ/s1600/Peek%2B2020-04-28%2B13-37.gif
-
+<img src="https://1.bp.blogspot.com/-dQpCarutkNE/Xqhq-BbVlKI/AAAAAAAAAOw/vL89qAFtuR4OAyv4fukEviYeV1Df0deuQCLcBGAsYHQ/s1600/Peek%2B2020-04-28%2B13-37.gif" data-canonical-src="https://1.bp.blogspot.com/-dQpCarutkNE/Xqhq-BbVlKI/AAAAAAAAAOw/vL89qAFtuR4OAyv4fukEviYeV1Df0deuQCLcBGAsYHQ/s1600/Peek%2B2020-04-28%2B13-37.gif" style="max-width:100%;">
 
 
 
