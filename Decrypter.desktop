@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Base64 Decrypter
+Comment=Encryption Tool 
+Exec=/usr/share/Decrypter/decrypter.sh
+Icon=/usr/share/Decrypter/icon/aes.png
+Terminal=true
+Type=Application
+StartupNotify=true
