@@ -12,9 +12,9 @@ $ git clone https://github.com/r0xh/Base64-Decrypter
 Installation: 
 ```bash
 sudo mv Decrypter /usr/share/
-sudo chmod +x /usr/share/Decrypter/decrypter.sh
-sudo chmod +x /usr/share/Decrypter/Decrypter.desktop
-sudo cp /usr/share/Decrypter/Decrypter.desktop /usr/share/applications/
+sudo chmod +x /usr/share/Base64-Decrypter/decrypter.sh
+sudo chmod +x /usr/share/Base64-Decrypter/Decrypter.desktop
+sudo cp /usr/share/Base64-Decrypter/Decrypter.desktop /usr/share/applications/
 ```
 
 <img src="https://i.imgur.com/3vXmfuD.gif" data-canonical-src="https://i.imgur.com/3vXmfuD.gif" style="max-width:100%;">
